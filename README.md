@@ -17,7 +17,7 @@ I’m a **software developer** passionate about bringing ideas to life through a
 - Projects that involve **automation**, **IoT**, or **embedded systems**.
 
 ### **📫 How to reach me:**
-Feel free to contact me via andresphibe@outlook.es or find me on **GitHub** or **LinkedIn**. I’m always open to new opportunities and collaborations!
+Feel free to contact me via andresphibe@outlook.es or find me on **LinkedIn**. I’m always open to new opportunities and collaborations!
 
 ### **⚡ Fun fact:**
 When I’m not coding or tinkering with hardware, you’ll find me learning about **science** or cooking up a new recipe—combining flavors is a lot like coding!
