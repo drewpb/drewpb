@@ -8,9 +8,12 @@ I’m a **software developer** passionate about bringing ideas to life through a
 - **Arduino, ESP32, Raspberry Pi**: Creating embedded systems and IoT solutions.
 - **Automation and control**: Using **Node-Red** and **LabVIEW** to design efficient control systems for industrial and home use.
 
+### **📜 My certificates:**
+- [PCAP-31-03] PCAP™ – Certified Associate Python Programmer, issued by Python Institute.
+- CFGS Electronic Maintenance, issued by CIFPN1.
+
 ### **🌱 I’m currently learning:**
-- PCAP certificated by Tokio School
-- Advanced techniques in **machine learning** by Tokio School.
+- Advanced techniques in **Machine Learning** by Tokio School.
 
 ### **💞️ I’m looking to collaborate on:**
 - **Open-source** Python projects or anything that combines hardware and software in creative ways.
