@@ -3,17 +3,19 @@
 I’m a **software developer** passionate about bringing ideas to life through a mix of **electronics** and **software**. Whether it’s automating tasks, building IoT projects, or designing web and desktop applications, I’m always up for a challenge.
 
 ### **👀 I’m interested in:**
+- **Machine Learning**: Building models to apply data-driven techniques to solve real-world problems and continue growing my technical skills.
 - **Python development**: Building robust applications with **Flask**, **Django**, and custom GUIs in **Tkinter**.
 - **Web and database integration**: Ensuring data flows smoothly with my SQL and NoSQL database skills.
 - **Arduino, ESP32, Raspberry Pi**: Creating embedded systems and IoT solutions.
 - **Automation and control**: Using **Node-Red** and **LabVIEW** to design efficient control systems for industrial and home use.
 
 ### **📜 My certificates:**
+- Python Programing + Specialization in **Machine Learning** 
 - [PCAP-31-03](https://www.credly.com/badges/bded6959-0b2a-40e6-b4c9-e6e5a5f6c802/linked_in?t=srxs8c) PCAP™ – Certified Associate Python Programmer, issued by Python Institute.
 - CFGS Electronic Maintenance, issued by CIFPN1.
 
 ### **🌱 I’m currently learning:**
-- Advanced techniques in **Machine Learning** by Tokio School.
+- Advanced techniques in **Deep Learning** by Tokio School.
 
 ### **💞️ I’m looking to collaborate on:**
 - **Open-source** Python projects or anything that combines hardware and software in creative ways.
