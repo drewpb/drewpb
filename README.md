@@ -9,6 +9,16 @@ I’m a **software developer** passionate about bringing ideas to life through a
 - **Arduino, ESP32, Raspberry Pi**: Creating embedded systems and IoT solutions.
 - **Automation and control**: Using **Node-Red** and **LabVIEW** to design efficient control systems for industrial and home use.
 
+### **🚀 My last project:**
+- **Scrapy Tool**:
+  
+    Scrapy Tool is an automation system developed during my professional internship, focused on collecting, processing, and analyzing job opportunities from multiple sources.
+    It transforms large amounts of unstructured job data into organized, filtered, and valuable information through automated extraction, data processing, AI-based analysis, prioritization, reporting, and email delivery.
+    
+    The project also includes a private environment for result visualization and serves as the foundation for future SaaS multi-tenant development.
+    
+    More technical details and project structure can be found in this repository: https://github.com/drewpb/cv-scrapy-tool
+
 ### **📜 My certificates:**
 - Python Programing + Specialization in **Machine Learning** 
 - [PCAP-31-03](https://www.credly.com/badges/bded6959-0b2a-40e6-b4c9-e6e5a5f6c802/linked_in?t=srxs8c) PCAP™ – Certified Associate Python Programmer, issued by Python Institute.
